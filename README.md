@@ -1,2 +1,2 @@
 # pizzaria-da-massa
-All algorithms implemented in Java
+Programa para cálculo de uma pizzaria, usando ArrayList, estruturas de decisão e repetição e Orientação a Objetos.
