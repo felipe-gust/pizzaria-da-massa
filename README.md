@@ -1,2 +1,2 @@
 # pizzaria-da-massa
-Programa para cálculo de uma pizzaria, usando ArrayList, estruturas de decisão e repetição e Orientação a Objetos.
+Caixa de uma pizzaria para a atendente usar para realizar o pedido do cliente, usando ArrayList, estruturas de decisão e repetição e Orientação a Objetos.
